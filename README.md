@@ -1,46 +1,11 @@
-# group-project-1
-
-# Group Do: Designing your MVP
-
-## Instructions
-* With your group, answer each of the following questions:
-  1. Who is your target audience?
-  <!-- people who don't know how to cook -->
-  2. What is the problem that the product will address?
-  <!-- it's hard to get a customized recepie -->
-  3. What is the primary goal of the product?
-  <!-- is to get healthy recepies -->
-  4. Identify and prioritize essential user stories (limit this to 3 or fewer)?
-  <!-- As a user, I want a smiple way to get a recepies i like.
-       As a user, I don't want to eat junck food.
-       As a user, I want to track my neutrition value.
-   -->
-
-* Remember, your MVP should be the absolute *minimum* product that you need to pitch your idea to investors (or your classmates). Think bare essentials.
-
-* As an example, the essential features of an instagram-like application might look like:
-
-  1. As a user, I want to post pictures so that I can share my life.
-  2. As a user, I want to be able to search for other users so that I can find their list of images.
-  3. As a user, I want to be able to view other people's images so that I can keep up with what's happening in their lives. 
-    Cooking novices who need recipes for inspiration.
-
-  2. What is the problem that the product will address?
-
-  There is no app with a simple GUI that provides customized recipes for occasional cooks.
-
-
-  3. What is the primary goal of the product?
-    To get recipes
-
-
-  4. Identify and prioritize essential user stories (limit this to 3 or fewer)?
-  
-  1. As a user, I want a simple user friendly way to get meal inspiration and recipes
-  2. As a user, I want an easy way to find recipies for ingredients that I have on hand
-  3. As a user, I want to find recipes like to know the nutritional value of what I'm eating
-  
-
-* Remember, your MVP should be the absolute *minimum* product that you need to pitch your idea to investors (or your classmates). Think bare essentials. 
-
-* Things like liking photos, sending photos to friends, making instagram stories, etc are cool, but they aren't essential. They should **not** be part of the MVP.
+This Website was created as a group project. Our idea was to bring the user recipe ideas for whatever ingredients or dishes they entered. Once a query is entered, our site will return with the results and display them as result cards. If one of these cards is clicked on, it will show a full sized card listing the ingredients and nutritional information for the recipe, along with a link to the site where the recipe originated. On the main page there are filters that can be set to return only vegetarian, vegan, peanut-free, tree-nut-free, alcohol-free recipes, or any combination thereof. There is also a link to show a map of the user’s current area and nearby supermarkets.
+ 
+The site uses APIs from Edamam and Google Maps with the places library. The site was developed in a week using a team of four people:
+ 
+Jonas Hellstrom: https://github.com/pjhellstrom
+Brian: https://github.com/Brianzzl
+MJuseph: https://github.com/MJuseph
+ 
+And Myself:
+ 
+Eric Jobin: https://github.com/EricJobin
